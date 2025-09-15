@@ -1,1 +1,1 @@
-# print-IUH-transcript-without-error
+# in Bảng điểm IUH không bị lỗi
